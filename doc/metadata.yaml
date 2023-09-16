@@ -1,15 +1,31 @@
-description: null
+description: "The MLAB LTS01 is a highly precise digital thermometer module utilizing\
+  \ the MAX31725 IC. It offers I2C connectivity, multiple resolution options, and\
+  \ low power consumption. Designed for a temperature range of -55\xB0C to +150\xB0\
+  C, it's perfect for home automation, industrial control, medical devices, and HVAC\
+  \ systems."
 github_branch: LTS01A
 github_repo: LTS01
 github_url: https://github.com/mlab-modules/LTS01
 homepage: false
 images:
-- doc/img/LTS01A_top_small.jpg
 - doc/img/LTS01A_top_big.jpg
+- doc/img/LTS01A_top_small.jpg
 - doc/img/LTS01A_QRcode.png
 mark: 50
 status: 0
 tags:
 - mlab
 - mlab-module
+- max31725
+- mlab-senzor
+- mlab-thermometer
+- high-accuracy
+- hvac-control
+- i2c
+- i2c-bus
+- i2c-sensors
+- temperature-monitoring
+- temperature-sensor
+- thermometer
+- i2c-thermometer
 title: LTS01

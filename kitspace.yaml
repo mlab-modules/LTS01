@@ -5,4 +5,8 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/LTS01
-summary: null
+summary: "The MLAB LTS01 is a highly precise digital thermometer module utilizing\
+  \ the MAX31725 IC. It offers I2C connectivity, multiple resolution options, and\
+  \ low power consumption. Designed for a temperature range of -55\xB0C to +150\xB0\
+  C, it's perfect for home automation, industrial control, medical devices, and HVAC\
+  \ systems."
